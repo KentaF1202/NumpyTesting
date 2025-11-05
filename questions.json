@@ -1,0 +1,14 @@
+{
+    "question_list":{
+        "1":{
+            "question":"Make a numpy array with elements 1,3,7,8",
+            "example":"np.array([1,3,7,8])",
+            "answer":"np.array([1,3,7,8])"
+        },
+        "2":{
+            "question":"Make a numpy array with elements 1-10",
+            "example":"np.arange(1,11)",
+            "answer":"np.arange(1,11)"
+        }
+    }
+}
